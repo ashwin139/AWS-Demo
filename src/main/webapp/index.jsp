@@ -5,7 +5,7 @@
 <html>
       <title>Sample Demo Project For AWS Testing </title>
 <body>
-      <h1> <center> Sample Demo Project For AWS Testing V1 </center> </h1>
+      <h1> <center> Sample Demo Project For AWS Testing V2 </center> </h1>
       <b> Mathematics</b>
       <hr>
       <form method="post" action="Result.jsp">
