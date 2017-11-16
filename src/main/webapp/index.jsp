@@ -3,7 +3,7 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
-      <title>DevOps Calculator Demo V1- Ashwin </title>
+      <title>DevOps Calculator Demo V2- Ashwin Shankarananda </title>
 <body>
       <h1> <center> Sample Demo Project For AWS Testing V3 </center> </h1>
       <b> Mathematics</b>
