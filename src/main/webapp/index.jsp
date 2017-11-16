@@ -3,7 +3,7 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
-      <title>Sample Demo Project For AWS Testing </title>
+      <title>DevOps Calculator Demo V1 </title>
 <body>
       <h1> <center> Sample Demo Project For AWS Testing V3 </center> </h1>
       <b> Mathematics</b>
