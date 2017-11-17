@@ -3,9 +3,9 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
-      <title>DevOps Calculator Demo Test V2- Ashwin Shankarananda </title>
+      <title>DevOps Calculator Demo Test V3- Ashwin Shankarananda </title>
 <body>
-      <h1> <center> Welcoe To DevOps Demo </center> </h1>
+      <h1> <center> Welcome To DevOps Demo -Ashwin</center> </h1>
       <b> Mathematics</b>
       <hr>
       <form method="post" action="Result.jsp">
