@@ -5,7 +5,7 @@
 <html>
       <title>DevOps Calculator Demo Test V2- Ashwin Shankarananda </title>
 <body>
-      <h1> <center> DevOps Demo By Ashwin Shankarananda</center> </h1>
+      <h1> <center> Welcoe To DevOps Demo </center> </h1>
       <b> Mathematics</b>
       <hr>
       <form method="post" action="Result.jsp">
