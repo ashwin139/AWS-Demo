@@ -4,6 +4,6 @@ FROM openjdk
 VOLUME /tmp
 ADD maven/${fileName}.war ${fileName}.war
 RUN sh -c 'touch /${fileName}.war'
-ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-war","/${fileName}.war"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/${fileName}.war"]
 
 EXPOSE 7070
