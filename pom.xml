@@ -32,7 +32,7 @@
         <docker.image.prefix>ashwin139</docker.image.prefix>
 
         <!--Set to name of project-->
-        <docker.image.name>ashwinCal</docker.image.name>
+        <docker.image.name>ashwincal</docker.image.name>
 
 </properties>
 
