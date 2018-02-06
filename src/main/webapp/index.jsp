@@ -5,7 +5,7 @@
 <html>
       <title>DevOps Calculator Demo Test V3- Ashwin Shankarananda </title>
 <body>
-      <h1> <center> Prowareness Proceed CI- CD Demo</center> </h1>
+      <h1> <center> DevOn Proceed CI- CD Demo</center> </h1>
       <b> Mathematics</b>
       <hr>
       <form method="post" action="Result.jsp">
